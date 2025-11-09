@@ -166,8 +166,8 @@ OYD Protocol creates a **win-win-win ecosystem**:
 - **PYUSD** - Stablecoin payment rails
 
 ### **Smart Contracts**
-- **Solidity** - Contract development
-- **Hardhat** - Development framework
+- **Rust** - Contract development with Stylus
+- **Cargo** - Build and package manager
 
 
 
@@ -263,7 +263,7 @@ IPFS_GATEWAY_URL=your_ipfs_gateway
 
 ## 📈 Roadmap
 
-### Phase 1: ETHGlobal MVP (✅ Current)
+### Phase 1: Arbitrum Stylus MVP (✅ Current)
 - Basic data collection and payment flow
 - Self Protocol identity verification  
 - PYUSD payment integration
@@ -294,7 +294,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ##  Acknowledgments
 
-- **ETHGlobal** for hosting this amazing hackathon
+- **Arbitrum Stylus** for providing the advanced Rust-based smart contract platform
 - **Self Protocol** for privacy-preserving identity infrastructure  
 - **Reclaim Protocol** for zkTLS data verification
 - **Lighthouse** for DataDAO and IPFS storage solutions
@@ -311,4 +311,4 @@ OYD Protocol represents more than just a hackathon project—it's the foundation
 
 ---
 
-*Built with ❤️ for ETHGlobal by the OYD Protocolteam*
+*Built with ❤️ on Arbitrum Stylus by the OYD Protocol team*
